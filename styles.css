@@ -78,3 +78,8 @@ table {
 .info__text-header {
     font-size: 36px;
 }
+
+.testimonial__text-quote {
+    font-size: 36px;
+    font-style: italic;
+}
