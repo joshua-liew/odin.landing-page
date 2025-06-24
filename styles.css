@@ -146,3 +146,13 @@ table {
 .testimonial__layout-author {
     text-align: right;
 }
+
+.cta__layout {
+    margin: 5rem auto;
+}
+
+.cta__layout-card {
+    padding: 1rem 3rem;
+    justify-content: space-between;
+    align-items: center;
+}
