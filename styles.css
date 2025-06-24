@@ -103,3 +103,20 @@ table {
     align-items: center;
     column-gap: 1em;
 }
+
+.hero__layout {
+    margin: 5em auto;
+}
+
+.hero__layout > div {
+    width: 100%;
+}
+
+.hero__layout-text {
+    padding-right: 36px;
+}
+
+.hero__layout-main,
+.hero__layout-secondary {
+    margin-bottom: 2rem;
+}
