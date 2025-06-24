@@ -156,3 +156,8 @@ table {
     justify-content: space-between;
     align-items: center;
 }
+
+.footer__layout {
+    margin: 3rem auto;
+    text-align: center;
+}
