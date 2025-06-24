@@ -134,3 +134,15 @@ table {
     justify-content: between;
     column-gap: 1.5rem;
 }
+
+.testimonial__layout {
+    margin: 5rem auto;
+}
+
+.testimonial__layout-quote {
+    margin-bottom: 2rem;
+}
+
+.testimonial__layout-author {
+    text-align: right;
+}
