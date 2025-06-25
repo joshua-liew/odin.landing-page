@@ -166,10 +166,16 @@ table {
 .bg-dark {
     background-color: #1F2937;
 }
+.bg-blue {
+    background-color: #3882F6;
+}
 
 .color__light-main {
     color: #F9FAF8;
 }
 .color__light-secondary {
     color: #E5E7EB;
+}
+.color__dark-main {
+    color: #1F2937;
 }
