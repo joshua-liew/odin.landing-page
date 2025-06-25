@@ -169,6 +169,9 @@ table {
 .bg-blue {
     background-color: #3882F6;
 }
+.bg-gray {
+    background-color: #E5E7EB;
+}
 
 .color__light-main {
     color: #F9FAF8;
