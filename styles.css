@@ -130,6 +130,7 @@ table {
 }
 
 .info__layout-card-list {
+    text-align: center;
     justify-content: between;
     column-gap: 1.5rem;
 }
