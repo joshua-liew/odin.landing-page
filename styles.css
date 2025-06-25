@@ -161,3 +161,15 @@ table {
     margin: 3rem auto;
     text-align: center;
 }
+
+/* --- Color --- */
+.bg-dark {
+    background-color: #1F2937;
+}
+
+.color__light-main {
+    color: #F9FAF8;
+}
+.color__light-secondary {
+    color: #E5E7EB;
+}
