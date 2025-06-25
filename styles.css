@@ -96,16 +96,15 @@ table {
 
 .nav__layout {
     justify-content: space-between;
-    margin: 1em auto;
+    padding: 1rem 0;
 }
-
 .nav__layout-list {
     align-items: center;
     column-gap: 1em;
 }
 
 .hero__layout {
-    margin: 5em auto;
+    padding: 6rem 0;
 }
 
 .hero__layout > div {
