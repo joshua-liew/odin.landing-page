@@ -209,6 +209,10 @@ a {
     border-radius: 1rem;
 }
 
+#cta .button {
+    border: 2px solid #F9FAF8;
+}
+
 /* --- Images --- */
 .image__container {
     overflow: hidden;
