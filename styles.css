@@ -159,11 +159,14 @@ table {
 .cta__layout {
     padding: 5rem 0;
 }
-
+.cta__layout-main {
+    margin-bottom: 1rem;
+}
 .cta__layout-card {
     padding: 3rem 5rem;
     justify-content: space-between;
     align-items: center;
+    border-radius: 1rem;
 }
 
 .footer__layout {
