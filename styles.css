@@ -82,6 +82,11 @@ table {
 .testimonial__text-quote {
     font-size: 36px;
     font-style: italic;
+    font-weight: 200;
+    line-height: 1.4;
+}
+.testimonial__text-author {
+    font-size: 24px;
 }
 
 /* --- Layout --- */
