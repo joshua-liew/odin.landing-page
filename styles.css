@@ -153,11 +153,11 @@ table {
 }
 
 .cta__layout {
-    margin: 5rem auto;
+    padding: 5rem 0;
 }
 
 .cta__layout-card {
-    padding: 1rem 3rem;
+    padding: 3rem 5rem;
     justify-content: space-between;
     align-items: center;
 }
