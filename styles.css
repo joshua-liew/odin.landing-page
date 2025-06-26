@@ -201,12 +201,13 @@ p {
 
 /* --- Links & Buttons --- */
 a {
+    display: inline-block;
     text-decoration: none;
 }
 a:hover,
 a.focus,
 a.active {
-    transform: scale(1.1);
+    transform: scale(1.05);
 }
 
 .button {
